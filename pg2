@@ -1,0 +1,2 @@
+from pg1 import demo
+demo()
